@@ -116,6 +116,9 @@
     <None Include="easyrp\configDefault.ini">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Include="easyrp\configDefaultSample.ini">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="easyrp\config.ini">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
