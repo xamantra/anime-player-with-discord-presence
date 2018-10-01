@@ -11,11 +11,8 @@ namespace AnimePlayer
 
         public static void Loadlist()
         {
-            Animes = JsonConvert.DeserializeObject<Dictionary<string, Anime>>(File.ReadAllText("easyrp/animes.json"));
-            foreach (var item in Animes)
-            {
-                Console.WriteLine(item.Value);
-            }
+            if (File.Exists("easyrp/animes.json"))
+                Animes = JsonConvert.DeserializeObject<Dictionary<string, Anime>>(File.ReadAllText("easyrp/animes.json"));
         }
 
         private static void UpdateList()
