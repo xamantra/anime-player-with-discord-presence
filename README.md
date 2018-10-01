@@ -8,11 +8,11 @@ It lets you open and watch an anime with your default video player and update yo
 
 ##### Next Episode:
 > Alt + N,
-> The video player when automatically quit the current episode and play the next episode.
+> The video player will automatically quit the current episode and play the next episode.
 
 ##### Previous Episode:
 > Alt + P, 
-> The video player when automatically quit the current episode and play the previous episode.
+> The video player will automatically quit the current episode and play the previous episode.
 
 **The rich presence is also updated automatically.**
 
