@@ -3,11 +3,11 @@ It lets you open and watch an anime with your default video player and update yo
 
 ### *Shortcuts*
 ##### Quit the App:
-> Alt + Q
+> Alt + Q,
 > The video player and the app will be terminated and the rich presence will be removed.
 
 ##### Next Episode:
-> Alt + N
+> Alt + N,
 > The video player when automatically quit the current episode and play the next episode.
 
 ##### Previous Episode:
